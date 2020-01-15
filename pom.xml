@@ -145,7 +145,7 @@
                 </plugins>
             </build>
             <properties>
-                <version.nb>RELEASE100</version.nb>
+                <version.nb>RELEASE111</version.nb>
                 <asm.nb>asm-all-5.0.1</asm.nb>
                 <nb.impl>incubator-netbeans-release-404-on-20190319</nb.impl>
             </properties>
